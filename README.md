@@ -1,21 +1,21 @@
-# منصة لوحة الوظائف والتوظيف
-**Full-Stack Job Board & Recruitment Platform** · التصنيف: متكامل (Full Stack)
+# Job Board & Recruitment Platform
+**Full-Stack Job Board & Recruitment Platform** · Category: Full Stack (Full Stack)
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
+> This project is for a specific company/client — the source code is not published.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-منصة وظائف متكاملة مع بوابة صاحب العمل والمرشح.
+## Project Overview
+An integrated jobs platform with employer and candidate portals.
 
-## أبرز النقاط
-- Next.js SSR + بحث نصي كامل بـ PostgreSQL
+## Highlights
+- Next.js SSR + full-text search with PostgreSQL
 - AWS ECS Fargate + RDS + S3 + CloudFront
-- 95+ Lighthouse SEO مع Structured Data
+- 95+ Lighthouse SEO with Structured Data
 
-## الدور
-مطوّر Full Stack: الواجهة الأمامية والخدمات الخلفية وقواعد البيانات والنشر.
+## Role
+Full Stack Developer: frontend, backend services, databases, and deployment.
 
-## التقنيات المستخدمة
+## Technologies used
 React, TypeScript, TanStack Query, ASP.NET Core, PostgreSQL, Redis, Docker, AWS
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — منصة لوحة الوظائف والتوظيف
+# 🛠️ Tech Stack — Job Board & Recruitment Platform
 
 - React
 - TypeScript
